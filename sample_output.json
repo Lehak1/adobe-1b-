@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-26T18:27:27.619478"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 1,
+            "section_title": "South of France - History",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 8,
+            "section_title": "South of France - Tips and Tricks",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 9,
+            "section_title": "South of France - Tips and Tricks",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 1,
+            "section_title": "South of France - Tips and Tricks",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 1,
+            "section_title": "South of France - Things to Do",
+            "importance_rank": 5
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "points of interest to help you plan an enriching and unforgettable trip.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a \u2022 portable phone charger. \u2022 Make a Packing List: Create a list to ensure nothing is forgotten. Pack a Day Bag: Bring a small day bag for daily excursions.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "and the needs of both adults and children. By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience.",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "a wealth of activities and experiences for travelers. Whether you're seeking adventure, relaxation, or cultural enrichment, this region has something for everyone. This guide will take you through a variety of activities and must-see attractions to help you plan an unforgettable trip.",
+            "page_number": 1
+        }
+    ]
+}
